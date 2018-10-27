@@ -19,6 +19,12 @@ return view('admin.admin');
   public function getDashboard(){
    return view('dashboard.dashboard');
  }
+  public function getDiscount(){
+   return view('admin.discount.discount');
+ }
+
+
+
 /*public function postSomething(){
 
 }*/

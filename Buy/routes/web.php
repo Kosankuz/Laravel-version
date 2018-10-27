@@ -15,3 +15,4 @@ Route::get('/', 'PagesController@getIndex');
 
 Route::get('dashboard', 'PagesController@getDashboard');
 Route::get('admin', 'PagesController@getAdmin');
+Route::get('discount', 'PagesController@getDiscount');
