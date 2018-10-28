@@ -22,6 +22,15 @@ return view('admin.admin');
   public function getDiscount(){
    return view('admin.discount.discount');
  }
+  public function getInvestment(){
+   return view('admin.investment.investment');
+ }
+  public function getRefund(){
+   return view('admin.refund.refund');
+ }
+  public function getSale(){
+   return view('admin.sale.sale');
+ }
 
 
 

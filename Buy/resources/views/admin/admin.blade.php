@@ -28,16 +28,16 @@
       </div>
       <div class="div_form" style="display:flex;justify-content:space-around;">
 <div class="text-center middle">
-          <a href="/admin/investment/index.html"> <button class="btn sm-" type="button" name="button" style="width:100%;height: 100%;border:1px solid #00BEA3" > Invest </button> </a>
+          <a href="{{('investment')}}"> <button class="btn sm-" type="button" name="button" style="width:100%;height: 100%;border:1px solid #00BEA3" > Invest </button> </a>
 </div>
 
        <div class="text-center middle">
-          <a href="/admin/refund/index.html"> <button class="btn sm-" type="button" name="button" style="width:100%;height: 100%;border:1px solid #00BEA3" > Refund </button> </a>
+          <a href="{{('refund')}}"> <button class="btn sm-" type="button" name="button" style="width:100%;height: 100%;border:1px solid #00BEA3" > Refund </button> </a>
        </div>
 
 
        <div class="text-center middle">
-          <a href="/admin/sale/index.html"> <button class="btn sm-" type="button" name="button" style="width:100%;height: 100%;border:1px solid #00BEA3" > Sale </button> </a>
+          <a href="{{('sale')}}"> <button class="btn sm-" type="button" name="button" style="width:100%;height: 100%;border:1px solid #00BEA3" > Sale </button> </a>
        </div>
 
 

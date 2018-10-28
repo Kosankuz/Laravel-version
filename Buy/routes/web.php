@@ -16,3 +16,6 @@ Route::get('/', 'PagesController@getIndex');
 Route::get('dashboard', 'PagesController@getDashboard');
 Route::get('admin', 'PagesController@getAdmin');
 Route::get('discount', 'PagesController@getDiscount');
+Route::get('investment', 'PagesController@getInvestment');
+Route::get('refund', 'PagesController@getRefund');
+Route::get('sale', 'PagesController@getSale');
