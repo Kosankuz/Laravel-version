@@ -25,7 +25,7 @@
 <body>
 
 
-  @include('layout.navbar')
+  @include('layout.adminNavbar')
   <div id="main">
     <span style="font-size:30px;cursor:pointer;position:fixed;" onclick="openNav()" id="openNavBtn">&#9776;</span>
     <div class="container">
