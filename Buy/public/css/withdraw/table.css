@@ -1,0 +1,22 @@
+.tableSmallFont{
+font-size:10px;
+}
+.successb {
+  background-color: #00BEA3;
+border-radius: 5px;
+height: 1%;
+}
+
+.successb a {
+  color: black;
+
+}
+.failed a {
+  color: red;
+
+}
+
+.pending a {
+  color: orange;
+
+}

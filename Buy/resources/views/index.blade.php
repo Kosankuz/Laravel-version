@@ -27,6 +27,8 @@
 </style>
   </head>
   <body>
+
+
     <div class="" id="main" style="text-align: center; font-size: 105px;width:150px;height:15%;margin:auto;border:1px solid #00BEA3;display:flex;border-radius:5px;margin-top:10%">
    <a style=" color:white !important;text-decoration: none;width:100%;font-family: monospace;" href="{{('admin')}}"><div id="a1" class="buttons" style="width:100%;height:100%;background-color:#00BEA3;border:1px solid white;border-top-left-radius: 10px;border-bottom-left-radius: 10px;">
 A</div></a>
